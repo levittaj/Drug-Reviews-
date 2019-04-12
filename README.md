@@ -9,6 +9,9 @@ Main research problem(s):
 In my early data exploration and visualization, I looked at the most common conditions and best and worst drugs by rating. This resulted in several potential research questions. 
 
 •	What role does sentiment play in the reviews and useful counts of a medication? 
-•	Through the use of sentiment analysis, could I identify positive and negative reviews? 
+
+•	Through the use of sentiment analysis, could I identify positive and negative reviews?
+
 •	Furthermore, can I use various classification models, to predict a condition based on reviews? 
+
 •	Lastly, are their topic clusters in the text?
